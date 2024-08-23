@@ -45,7 +45,7 @@ def password_strength_check(password):
     else:
         return "Password Strength: Weak", feedback
 
-# Example usage:
+
 password = input("Enter a password to check the strenth : ")
 strength, feedback = password_strength_check(password)
 
