@@ -15,3 +15,6 @@ I recently developed a Python Password Complexity Checker which evaluates the st
 -Special Characters: Special characters provide an extra layer of security.
 
 # Functions used
+
+- re (reglar expression)- Regular expressions tool for pattern matching within strings. They allow you to search, extract, and manipulate text based on specific patterns
+- .search- The search() function searches the string for a match, and returns a Match object if there is a match
